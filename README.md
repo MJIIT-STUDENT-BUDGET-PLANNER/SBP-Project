@@ -2,8 +2,6 @@
 
 Smart Moneytrex is a Flutter app that assists you in tracking your costs and managing category budgets. It has an easy-to-use interface for entering and categorising your costs, offering you insights into your spending patterns and assisting you in staying within your budget.
 
-![Screenshot of Smart Moneytrex] (screenshots/fintracker_screenshot.jpg)
-
 ## Advantages
 
 - Easily track and report your costs.
